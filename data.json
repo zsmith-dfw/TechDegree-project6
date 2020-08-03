@@ -1,0 +1,50 @@
+{
+    "projects": [
+      {
+        "id": 0,
+        "project_name": "Random Quote Generator",
+        "description": "Displays a random quote from various historical / fictional persons",
+        "technologies": ["HTML", "JavaScript", "CSS"],
+        "live_link": "https://zsmith-dfw.github.io/TechDegree-project1/",
+        "github_link": "https://github.com/zsmith-dfw/TechDegree-project1",
+        "image_url": ["static/images/quotegen1.png", "static/images/quotegen2.png"]
+      },
+      {
+        "id": 1,
+        "project_name": "List Pagination and Filtering",
+        "description": "Displays a list of 10 students on a page and appends page links",
+        "technologies": ["HTML", "JavaScript", "CSS", "DOM Manipulation"],
+        "live_link": "https://zsmith-dfw.github.io/TechDegree-project2/",
+        "github_link": "https://github.com/zsmith-dfw/TechDegree-project2",
+        "image_url": ["static/images/pagination1.png", "static/images/pagination2.png"]
+      },
+      {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "Registration form for an event that utilizes form validation",
+        "technologies": ["HTML", "JavaScript", "CSS", "DOM Manipulation", "Regular Expressions"],
+        "live_link": "https://zsmith-dfw.github.io/TechDegree-project3/",
+        "github_link": "https://github.com/zsmith-dfw/TechDegree-project3",
+        "image_url": ["static/images/form1.png", "static/images/form2.png"]
+      },
+      {
+        "id": 3,
+        "project_name": "OOP Game Show App",
+        "description": "Phrase guessing game from the video game Fallout: New Vegas",
+        "technologies": ["HTML", "JavaScript", "CSS", "DOM Manipulation", "Object Oriented Programming"],
+        "live_link": "https://zsmith-dfw.github.io/TechDegree-project4/",
+        "github_link": "https://github.com/zsmith-dfw/TechDegree-project4",
+        "image_url": ["static/images/gameshow1.png", "static/images/gameshow2.png"]
+      },
+      {
+        "id": 4,
+        "project_name": "Public API Requests",
+        "description": "Dynamically pulls employee data for a company's landing page utilizing a fetch API",
+        "technologies": ["HTML", "JavaScript", "CSS", "DOM Manipulation", "Fetch API"],
+        "live_link": "https://zsmith-dfw.github.io/TechDegree-project5/",
+        "github_link": "https://github.com/zsmith-dfw/TechDegree-project5",
+        "image_url": ["static/images/api1.png", "static/images/api2.png"]
+      }
+    ]
+  }
+  
