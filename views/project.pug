@@ -21,7 +21,8 @@ block content
           each technology in project.technologies
             li= technology
 
-        a.button.expanded(href=`${project.live_link}`) Live Demo
+        a.button.expanded(href=`${project.live_link}`
+        target="_blank") Live Demo
         a.button.expanded(href=`${project.github_link}`) GitHub Repo
   
     each image in project.image_url
