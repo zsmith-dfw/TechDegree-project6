@@ -15,12 +15,8 @@ app.get("/about", (req, res) => {
 app.get("/projects/:id", (req, res) => {
   const projectId = req.params.id;
   const project = projects.find(({ id }) => id === +projectId);
-
-  if (project) {
     res.render("project", { project });
-  } else {
-    res.sendStatus(404);
-  }
+  
 });
 
 // Error Handler

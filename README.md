@@ -1,2 +1,2 @@
-# TechDegree-project6
- Static Node.js and Express Site
+# Static Node.js and Express Site
+ This is a simple portfolio
