@@ -7,7 +7,7 @@
         "technologies": ["HTML", "JavaScript", "CSS"],
         "live_link": "https://zsmith-dfw.github.io/TechDegree-project1/",
         "github_link": "https://github.com/zsmith-dfw/TechDegree-project1",
-        "image_url": ["/static/images/quotegen1.png", "/static/images/quotegen2.png"]
+        "image_url": ["/static/images/quotegen1.jpg", "/static/images/quotegen2.png"]
       },
       {
         "id": 1,
