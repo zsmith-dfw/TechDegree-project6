@@ -44,6 +44,15 @@
         "live_link": "https://zsmith-dfw.github.io/TechDegree-project5/",
         "github_link": "https://github.com/zsmith-dfw/TechDegree-project5",
         "image_url": ["/static/images/api1.png", "/static/images/api2.png"]
+      },
+      {
+        "id": 5,
+        "project_name": "React Gallery App",
+        "description": "Search for a variety of images with the Flickr API",
+        "technologies": ["HTML", "JavaScript", "CSS", "React", "Fetch API"],
+        "live_link": "https://zsmith-dfw.github.io/TechDegree-project7/",
+        "github_link": "https://github.com/zsmith-dfw/TechDegree-project7",
+        "image_url": ["/static/images/api1.png", "/static/images/api2.png"]
       }
     ]
   }
