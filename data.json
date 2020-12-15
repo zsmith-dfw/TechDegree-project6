@@ -53,17 +53,9 @@
         "technologies": ["HTML", "JavaScript", "CSS", "React", "Fetch API"],
         "live_link": "https://zsmith-dfw.github.io/TechDegree-project7/",
         "github_link": "https://github.com/zsmith-dfw/TechDegree-project7",
-        "image_url": ["/static/images/test-photo.jpg"]
-      },
-      {
-        "id": 6,
-        "project_name": "Full Stack Application with a REST API",
-        "description": "By connecting to a custom REST API using a SQL database, users can create accounts and create, update, and delete courses",
-        "technologies": ["HTML","Node", "Express", "SQL", "JavaScript", "CSS", "React", "REST API"],
-        "live_link": "https://cocky-easley-8e3359.netlify.app/",
-        "github_link": "https://github.com/zsmith-dfw/TechDegree-project10",
-        "image_url": ["/static/images/test-photo.jpg"]
+        "image_url": ["/static/images/gallery1.jpg", "/static/images/gallery2.jpg"]
       }
+
       
     ]
   }
